@@ -1,0 +1,12 @@
+name: COVID
+title: COVID
+username:
+account: geoaustin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2320904
+bundleId: 3263585
+url: https://geoaustin.shinyapps.io/COVID/
+when: 1592004796.497
+asMultiple: FALSE
+asStatic: FALSE
